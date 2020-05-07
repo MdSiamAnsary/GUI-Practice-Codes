@@ -39,9 +39,9 @@
                   <Group type="102" attributes="0">
                       <Group type="103" groupAlignment="1" max="-2" attributes="0">
                           <Group type="102" attributes="0">
-                              <Component id="dotBtn" min="-2" pref="97" max="-2" attributes="0"/>
+                              <Component id="dotButton" min="-2" pref="97" max="-2" attributes="0"/>
                               <EmptySpace max="32767" attributes="0"/>
-                              <Component id="zeroBtn" min="-2" pref="97" max="-2" attributes="0"/>
+                              <Component id="zeroButton" min="-2" pref="97" max="-2" attributes="0"/>
                           </Group>
                           <Group type="102" attributes="0">
                               <Group type="103" groupAlignment="0" attributes="0">
@@ -49,50 +49,50 @@
                                   <Component id="radioOff" min="-2" max="-2" attributes="0"/>
                               </Group>
                               <EmptySpace min="-2" pref="77" max="-2" attributes="0"/>
-                              <Component id="backBtn" min="-2" pref="97" max="-2" attributes="0"/>
+                              <Component id="backButton" min="-2" pref="97" max="-2" attributes="0"/>
                           </Group>
                           <Group type="102" attributes="0">
-                              <Component id="oneBtn" min="-2" pref="97" max="-2" attributes="0"/>
+                              <Component id="oneButton" min="-2" pref="97" max="-2" attributes="0"/>
                               <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
-                              <Component id="twoBtn" min="-2" pref="97" max="-2" attributes="0"/>
+                              <Component id="twoButton" min="-2" pref="97" max="-2" attributes="0"/>
                           </Group>
                           <Group type="102" alignment="1" attributes="0">
                               <Group type="103" groupAlignment="1" attributes="0">
-                                  <Component id="sevenBtn" min="-2" pref="97" max="-2" attributes="0"/>
-                                  <Component id="fourBtn" min="-2" pref="97" max="-2" attributes="0"/>
+                                  <Component id="sevenButton" min="-2" pref="97" max="-2" attributes="0"/>
+                                  <Component id="fourButton" min="-2" pref="97" max="-2" attributes="0"/>
                               </Group>
                               <EmptySpace min="-2" pref="52" max="-2" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="fiveBtn" alignment="1" min="-2" pref="97" max="-2" attributes="0"/>
-                                  <Component id="eightBtn" alignment="1" min="-2" pref="97" max="-2" attributes="0"/>
+                                  <Component id="fiveButton" alignment="1" min="-2" pref="97" max="-2" attributes="0"/>
+                                  <Component id="eightButton" alignment="1" min="-2" pref="97" max="-2" attributes="0"/>
                               </Group>
                           </Group>
                       </Group>
                       <EmptySpace max="32767" attributes="0"/>
                       <Group type="103" groupAlignment="0" attributes="0">
                           <Group type="103" alignment="1" groupAlignment="0" max="-2" attributes="0">
-                              <Component id="eqlBtn" alignment="1" max="32767" attributes="0"/>
+                              <Component id="equalButton" alignment="1" max="32767" attributes="0"/>
                               <Group type="103" groupAlignment="0" attributes="0">
                                   <Group type="102" alignment="1" attributes="0">
-                                      <Component id="clearBtn" min="-2" pref="97" max="-2" attributes="0"/>
+                                      <Component id="clearButton" min="-2" pref="97" max="-2" attributes="0"/>
                                       <EmptySpace min="-2" pref="53" max="-2" attributes="0"/>
-                                      <Component id="addBtn" min="-2" pref="97" max="-2" attributes="0"/>
+                                      <Component id="addButton" min="-2" pref="97" max="-2" attributes="0"/>
                                   </Group>
                                   <Group type="102" alignment="1" attributes="0">
                                       <Group type="103" groupAlignment="1" attributes="0">
-                                          <Component id="sixBtn" min="-2" pref="97" max="-2" attributes="0"/>
-                                          <Component id="threeBtn" min="-2" pref="97" max="-2" attributes="0"/>
-                                          <Component id="nineBtn" alignment="1" min="-2" pref="97" max="-2" attributes="0"/>
+                                          <Component id="sixButton" min="-2" pref="97" max="-2" attributes="0"/>
+                                          <Component id="threeButton" min="-2" pref="97" max="-2" attributes="0"/>
+                                          <Component id="nineButton" alignment="1" min="-2" pref="97" max="-2" attributes="0"/>
                                       </Group>
                                       <EmptySpace min="53" pref="53" max="-2" attributes="0"/>
                                       <Group type="103" groupAlignment="0" attributes="0">
-                                          <Component id="subBtn" alignment="1" min="-2" pref="97" max="-2" attributes="0"/>
-                                          <Component id="mulBtn" alignment="0" min="-2" pref="97" max="-2" attributes="0"/>
+                                          <Component id="subButton" alignment="1" min="-2" pref="97" max="-2" attributes="0"/>
+                                          <Component id="mulButton" alignment="0" min="-2" pref="97" max="-2" attributes="0"/>
                                       </Group>
                                   </Group>
                               </Group>
                           </Group>
-                          <Component id="divBtn" alignment="1" min="-2" pref="97" max="-2" attributes="0"/>
+                          <Component id="divButton" alignment="1" min="-2" pref="97" max="-2" attributes="0"/>
                       </Group>
                   </Group>
               </Group>
@@ -111,9 +111,9 @@
                   <Group type="102" attributes="0">
                       <EmptySpace min="-2" pref="36" max="-2" attributes="0"/>
                       <Group type="103" groupAlignment="3" attributes="0">
-                          <Component id="addBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
-                          <Component id="clearBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
-                          <Component id="backBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
+                          <Component id="addButton" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
+                          <Component id="clearButton" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
+                          <Component id="backButton" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
                       </Group>
                   </Group>
                   <Group type="102" alignment="0" attributes="0">
@@ -126,37 +126,31 @@
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
                   <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="subBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
-                      <Component id="threeBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
+                      <Component id="subButton" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
+                      <Component id="threeButton" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
                   </Group>
-                  <Group type="103" alignment="0" groupAlignment="3" attributes="0">
-                      <Component id="twoBtn" alignment="0" min="-2" pref="64" max="-2" attributes="0"/>
-                      <Component id="oneBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
-                  </Group>
+                  <Component id="twoButton" alignment="0" min="-2" pref="64" max="-2" attributes="0"/>
+                  <Component id="oneButton" min="-2" pref="64" max="-2" attributes="0"/>
               </Group>
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="0" attributes="0">
-                  <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="mulBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
-                      <Component id="sixBtn" alignment="0" min="-2" pref="64" max="-2" attributes="0"/>
-                  </Group>
-                  <Group type="103" groupAlignment="3" attributes="0">
-                      <Component id="fiveBtn" alignment="0" min="-2" pref="64" max="-2" attributes="0"/>
-                      <Component id="fourBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
-                  </Group>
+                  <Component id="sixButton" alignment="0" min="-2" pref="64" max="-2" attributes="0"/>
+                  <Component id="mulButton" min="-2" pref="64" max="-2" attributes="0"/>
+                  <Component id="fiveButton" alignment="0" min="-2" pref="64" max="-2" attributes="0"/>
+                  <Component id="fourButton" min="-2" pref="64" max="-2" attributes="0"/>
               </Group>
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">
-                  <Component id="divBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
-                  <Component id="nineBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
-                  <Component id="eightBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
-                  <Component id="sevenBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
+                  <Component id="divButton" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
+                  <Component id="nineButton" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
+                  <Component id="eightButton" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
+                  <Component id="sevenButton" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
               </Group>
               <EmptySpace type="separate" max="-2" attributes="0"/>
               <Group type="103" groupAlignment="3" attributes="0">
-                  <Component id="eqlBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
-                  <Component id="dotBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
-                  <Component id="zeroBtn" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
+                  <Component id="equalButton" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
+                  <Component id="dotButton" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
+                  <Component id="zeroButton" alignment="3" min="-2" pref="64" max="-2" attributes="0"/>
               </Group>
               <EmptySpace pref="53" max="32767" attributes="0"/>
           </Group>
@@ -171,7 +165,7 @@
         <Property name="editable" type="boolean" value="false"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="addBtn">
+    <Component class="javax.swing.JButton" name="addButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
@@ -179,7 +173,7 @@
         <Property name="text" type="java.lang.String" value="+"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="subBtn">
+    <Component class="javax.swing.JButton" name="subButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
@@ -187,7 +181,7 @@
         <Property name="text" type="java.lang.String" value="-"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="mulBtn">
+    <Component class="javax.swing.JButton" name="mulButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
@@ -195,7 +189,7 @@
         <Property name="text" type="java.lang.String" value="&#xd7;"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="divBtn">
+    <Component class="javax.swing.JButton" name="divButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
@@ -203,7 +197,7 @@
         <Property name="text" type="java.lang.String" value="&#xf7;"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="clearBtn">
+    <Component class="javax.swing.JButton" name="clearButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
@@ -211,7 +205,7 @@
         <Property name="text" type="java.lang.String" value="C"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="backBtn">
+    <Component class="javax.swing.JButton" name="backButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="18" style="1"/>
@@ -235,7 +229,7 @@
         <Property name="text" type="java.lang.String" value="OFF"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="sixBtn">
+    <Component class="javax.swing.JButton" name="sixButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
@@ -243,7 +237,7 @@
         <Property name="text" type="java.lang.String" value="6"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="threeBtn">
+    <Component class="javax.swing.JButton" name="threeButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
@@ -251,7 +245,7 @@
         <Property name="text" type="java.lang.String" value="3"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="nineBtn">
+    <Component class="javax.swing.JButton" name="nineButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
@@ -259,23 +253,29 @@
         <Property name="text" type="java.lang.String" value="9"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="twoBtn">
+    <Component class="javax.swing.JButton" name="twoButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
         </Property>
         <Property name="text" type="java.lang.String" value="2"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="twoButtonActionPerformed"/>
+      </Events>
     </Component>
-    <Component class="javax.swing.JButton" name="oneBtn">
+    <Component class="javax.swing.JButton" name="oneButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
         </Property>
         <Property name="text" type="java.lang.String" value="1"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="oneButtonActionPerformed"/>
+      </Events>
     </Component>
-    <Component class="javax.swing.JButton" name="fiveBtn">
+    <Component class="javax.swing.JButton" name="fiveButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
@@ -283,15 +283,18 @@
         <Property name="text" type="java.lang.String" value="5"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="fourBtn">
+    <Component class="javax.swing.JButton" name="fourButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
         </Property>
         <Property name="text" type="java.lang.String" value="4"/>
       </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="fourButtonActionPerformed"/>
+      </Events>
     </Component>
-    <Component class="javax.swing.JButton" name="eqlBtn">
+    <Component class="javax.swing.JButton" name="equalButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
@@ -299,7 +302,7 @@
         <Property name="text" type="java.lang.String" value="="/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="dotBtn">
+    <Component class="javax.swing.JButton" name="dotButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
@@ -307,16 +310,15 @@
         <Property name="text" type="java.lang.String" value="."/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="zeroBtn">
+    <Component class="javax.swing.JButton" name="zeroButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
         </Property>
         <Property name="text" type="java.lang.String" value="0"/>
-        <Property name="actionCommand" type="java.lang.String" value="0"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="eightBtn">
+    <Component class="javax.swing.JButton" name="eightButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
@@ -324,7 +326,7 @@
         <Property name="text" type="java.lang.String" value="8"/>
       </Properties>
     </Component>
-    <Component class="javax.swing.JButton" name="sevenBtn">
+    <Component class="javax.swing.JButton" name="sevenButton">
       <Properties>
         <Property name="font" type="java.awt.Font" editor="org.netbeans.beaninfo.editors.FontEditor">
           <Font name="Tahoma" size="24" style="1"/>
