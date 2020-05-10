@@ -36,10 +36,13 @@ public class FileInputStreamFileOutputStreamExample {
              
             fvar1 = file1.createNewFile();
             fvar2 = file2.createNewFile();
+            
+            /*
 	    if (fvar1 && fvar2)          
                 System.out.println("Files has been created successfully");
 	    else
                 System.out.println("Files already present at the specified location");
+            */
             
             in = new FileInputStream(file1);
             out = new FileOutputStream(file2);
