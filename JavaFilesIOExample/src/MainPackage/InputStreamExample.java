@@ -14,7 +14,7 @@ import java.io.OutputStream;
 
 /**
  *
- * @author Asus
+ * @author Ansary
  */
 public class InputStreamExample {
     
