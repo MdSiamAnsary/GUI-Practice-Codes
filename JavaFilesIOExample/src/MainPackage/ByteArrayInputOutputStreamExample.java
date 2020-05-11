@@ -20,6 +20,7 @@ public class ByteArrayInputOutputStreamExample {
          // Gets the inputs from the user
          bOutput.write("hello".getBytes()); 
       }
+        
       byte b [] = bOutput.toByteArray();
       System.out.println("Print the content");
       
@@ -27,6 +28,7 @@ public class ByteArrayInputOutputStreamExample {
          // printing the characters
          System.out.print((char)b[x]  + "   "); 
       }
+        
       System.out.println("   ");
       
       int c;
