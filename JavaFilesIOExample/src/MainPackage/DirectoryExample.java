@@ -22,6 +22,7 @@ public class DirectoryExample {
         
         File file3 = new File("./parentDirectory");
         String[] paths = file3.list();
+        
         for(String path:paths) 
         {
             System.out.println(path);
