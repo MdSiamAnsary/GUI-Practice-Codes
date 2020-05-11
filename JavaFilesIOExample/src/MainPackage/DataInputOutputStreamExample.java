@@ -35,6 +35,7 @@ public class DataInputOutputStreamExample {
          String k = dataIn.readUTF();
          System.out.print(k+"\n");
       }
+        
    }
     
 }
