@@ -9,19 +9,15 @@ public class FileExecutableExample {
     {
         File file = new File("./TextFile.txt");
         file.createNewFile();
-        
         file.setExecutable(false);
-        System.out.println(file+ " " + file.canExecute()); // makes no sense
+        System.out.println(file+ " " + file.canExecute()); 
         
         file.setExecutable(true);
-        System.out.println(file+ " " + file.canExecute()); // makes no sense
+        System.out.println(file+ " " + file.canExecute()); 
         
         file.setExecutable(false);
-        System.out.println(file+ " " + file.canExecute()); // makes no sense
-        
+        System.out.println(file+ " " + file.canExecute()); 
         
         //Link: https://stackoverflow.com/questions/23146715/java-file-canexecute-always-return-false-on-red-hat-6-5
-        
     }
-    
 }
