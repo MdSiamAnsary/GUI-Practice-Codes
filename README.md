@@ -1,2 +1,2 @@
-# GUI-Practice-Codes
-Java Graphical User Interface Codes for Beginners
+# JAVA-Practice-Codes
+Java Practice Codes for Beginners
